@@ -1,0 +1,19 @@
+#chatdiv {
+  max-height: 80%;
+}
+.chatinput {
+  width: 100%;
+  margin: auto;
+  z-index: 5;
+}
+.chatinput > textarea {
+  width: 80%;
+}
+.chatrespnse {
+  background-color: rgb(78, 78, 245);
+  color: white;
+  width: max-content;
+}
+.userquestion {
+  width: max-content;
+}
